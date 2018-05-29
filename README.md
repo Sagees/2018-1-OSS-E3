@@ -13,8 +13,12 @@
 #### v0.3 : Optimize algorithm and memory management
 #####   Improved execution speed by approximately 86 %
 #####   (Analysis speed : 0.14 MBs)
-#### Algorithm enhancements
+#### v0.4 : Algorithm enhancements
 #####   Run approximately 101 % faster (Analysis Speed : 0.28MBs)
+
+### Performance
+#### Non-examination (newspaper article) : 0.825
+#### Literature : 0.851
 
 > Our Static Page : https://18-1-skku-oss.github.io/2018-1-OSS-E3/
 
