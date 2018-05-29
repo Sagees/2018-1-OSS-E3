@@ -7,7 +7,9 @@
 ### Updated History
 #### v0.1 : first release. About 80% accuracy.
 #### v0.2 : improved accuracy up to 85%.
-
+##### Reduce analytical ambiguity using interactive information volume maps
+##### Indication of technical investigation can be traced
+##### (Analysis Speed : 0.08MBs)
 > Our Static Page : https://18-1-skku-oss.github.io/2018-1-OSS-E3/
 
 > Our Project: https://github.com/18-1-SKKU-OSS/Kiwi
