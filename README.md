@@ -20,6 +20,9 @@
 #### Non-examination (newspaper article) : 0.825
 #### Literature : 0.851
 
+
+### Demo
+#### You can run a demonstration at https://lab.bab2min.pe.kr/kiwi
 > Our Static Page : https://18-1-skku-oss.github.io/2018-1-OSS-E3/
 
 > Our Project: https://github.com/18-1-SKKU-OSS/Kiwi
