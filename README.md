@@ -23,7 +23,7 @@
 
 ### Demo
 #### You can run a demonstration at https://lab.bab2min.pe.kr/kiwi
-> Our Static Page : https://18-1-skku-oss.github.io/2018-1-OSS-E3/
+> Our Static Page : http://184.72.201.161/wordpress
 
 > Our Project: https://github.com/18-1-SKKU-OSS/Kiwi
 
